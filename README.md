@@ -1,4 +1,4 @@
-# Pure (A small commit)
+# Pure (A small commit, again)
 
 [![Pure](https://cloud.githubusercontent.com/assets/449779/5291099/1b554cca-7b03-11e4-9157-53a12d91b34a.png)][pure]
 
