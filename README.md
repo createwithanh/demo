@@ -1,4 +1,4 @@
-# Pure (small edit)
+# Pure (making an edit for Holler)
 
 A set of small, responsive CSS modules that you can use in every web project.
 [https://purecss.io/][pure]
