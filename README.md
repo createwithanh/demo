@@ -1,4 +1,4 @@
-# Pure (making a small change)
+# Pure (making a small change) - status change
 
 A set of small, responsive CSS modules that you can use in every web project.
 [https://purecss.io/][pure]
